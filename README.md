@@ -1,9 +1,2 @@
-# nodetogether.org
-welcome to node, we're glad you're here
-
-## Up and Running
-
-```
-$ npm install
-$ npm start
-```
+# nodetogether
+Workshop program for getting started in Node.js and expanding the diversity of the user community base
